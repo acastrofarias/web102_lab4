@@ -6,6 +6,13 @@ This web app: **takes in user parameters such as height, width, no ads, no cooki
 
 Time spent: **2** hours spent in total
 
+## Video Walkthrough
+Here's a walkthrough of the web app:
+
+<img src='https://github.com/acastrofarias/web102_lab4/blob/main/screenshotbuilder_walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIF created with LICEcap.
+
 ## License
 
     Copyright [yyyy] [name of copyright owner]
