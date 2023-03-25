@@ -2,7 +2,7 @@
 
 Submitted by: **Adrian Castro**
 
-This web app: **takes in user parameters such as height, width, no ads, no cookie banners, image format, and url to get screenshots of webpages using the ApiFlash API. It also displays the current screenshot, and a gallery of past screenshots.**
+This web app: **takes in user parameters such as height, width, no ads, no cookie banners, image format, and url to get screenshots of webpages using the ApiFlash API. It also displays the current screenshot, and a gallery of past screenshots. In the top right corner, it displays how many API calls remain with the API key being used.**
 
 Time spent: **2** hours spent in total
 
